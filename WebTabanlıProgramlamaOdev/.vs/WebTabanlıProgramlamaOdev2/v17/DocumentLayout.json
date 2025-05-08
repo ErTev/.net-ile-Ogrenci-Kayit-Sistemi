@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|c:\\users\\ertug\\desktop\\github paylasilacaklar\\webtabanl\u0131programlamaodev\\webtabanl\u0131programlamaodev2\\views\\_1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|solutionrelative:webtabanl\u0131programlamaodev2\\views\\_1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\webtabanl\u0131programlamaodev2\\views\\_1\\g\u00FCncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|solutionrelative:webtabanl\u0131programlamaodev2\\views\\_1\\g\u00FCncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\webtabanl\u0131programlamaodev2\\controllers\\_1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|solutionrelative:webtabanl\u0131programlamaodev2\\controllers\\_1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\webtabanl\u0131programlamaodev2\\views\\_1\\ogrenciekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|solutionrelative:webtabanl\u0131programlamaodev2\\views\\_1\\ogrenciekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\webtabanl\u0131programlamaodev2\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B36BE1E-4A23-444E-832C-C2B2BD9A19D9}|WebTabanl\u0131ProgramlamaOdev2\\WebTabanl\u0131ProgramlamaOdev2.csproj|solutionrelative:webtabanl\u0131programlamaodev2\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Controllers\\_1Controller.cs",
+              "RelativeDocumentMoniker": "WebTabanl\u0131ProgramlamaOdev2\\Controllers\\_1Controller.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Controllers\\_1Controller.cs",
+              "RelativeToolTip": "WebTabanl\u0131ProgramlamaOdev2\\Controllers\\_1Controller.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:12:37.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "G\u00FCncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\G\u00FCncelle.cshtml",
+              "RelativeDocumentMoniker": "WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\G\u00FCncelle.cshtml",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\G\u00FCncelle.cshtml",
+              "RelativeToolTip": "WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\G\u00FCncelle.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T23:21:35.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\Index.cshtml",
+              "RelativeToolTip": "WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T21:18:30.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\OgrenciEkle.cshtml",
+              "RelativeDocumentMoniker": "WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\OgrenciEkle.cshtml",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\OgrenciEkle.cshtml",
+              "RelativeToolTip": "WebTabanl\u0131ProgramlamaOdev2\\Views\\_1\\OgrenciEkle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T21:39:23.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "WebTabanl\u0131ProgramlamaOdev2\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\WebTabanl\u0131ProgramlamaOdev\\WebTabanl\u0131ProgramlamaOdev2\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "WebTabanl\u0131ProgramlamaOdev2\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T22:28:43.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
